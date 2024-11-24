@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Bagus Sadewa
-Im fron indonesia 
+Im from indonesia 
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
