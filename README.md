@@ -9,7 +9,7 @@ Im from indonesia
 </picture>
 
 
-- 🔭 I’m currently working on My college
+- 🔭 I’m currently working on My college majoring in information system
 - 🌱 I’m currently learning about how to develop a desktop application
 - 📫 How to reach me: DM me ON https://www.instagram.com/bagussadewa.22/
 - ⚡ Fun fact: This fun fact is not fun and not a fact
